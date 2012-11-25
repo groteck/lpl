@@ -13,6 +13,8 @@
 //= require jquery
 //= require jquery_nested_form
 //= require jquery_ujs
+//= require morris
+//= require raphael
 //= require bootstrap
 //= require ckeditor/init
 //= require jquery.sharrre-1.3.3.min
